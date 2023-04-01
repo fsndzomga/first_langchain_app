@@ -1,0 +1,10 @@
+{
+  "server": {
+    "baseDir": "./"
+  },
+  "files": ["./**/*"],
+  "injectChanges": true,
+  "watchOptions": {
+    "ignoreInitial": true
+  }
+}
