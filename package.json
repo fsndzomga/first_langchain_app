@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My project description",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^10.0.0",
+    "langchain": "^0.0.45",
+    "node-fetch": "^3.3.1"
+  }
+}
